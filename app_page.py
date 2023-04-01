@@ -8,7 +8,6 @@ This is a temporary script file.
 import cufflinks as cf
 import yfinance  as yf
 import pandas    as pd
-import talib     as tl
 import streamlit as st
 import locale
 import strConstants as sc
