@@ -51,8 +51,8 @@ cf.set_config_file(theme='space')
 
 
 #st.markdown(sc.getCodeSnippet('reduceItemPadding'), unsafe_allow_html=True)
-st.markdown(sc.getCodeSnippet('sidebarWidth'), unsafe_allow_html=True)
-st.markdown(sc.getCodeSnippet('hideStreamlitStyle'), unsafe_allow_html=True)
+#st.markdown(sc.getCodeSnippet('sidebarWidth'), unsafe_allow_html=True)
+#st.markdown(sc.getCodeSnippet('hideStreamlitStyle'), unsafe_allow_html=True)
 st.markdown(sc.getCodeSnippet('adjustPaddingAndFont'), unsafe_allow_html=True)
 
 with st.sidebar:
